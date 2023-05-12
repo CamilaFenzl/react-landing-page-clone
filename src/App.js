@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import logo from './logo.svg';
 import Header from './sections/header';
 export default function App() {

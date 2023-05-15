@@ -62,13 +62,6 @@ export default function Header() {
                       <a href="#/ms/login" className="small-btn w-button">
                         Login
                       </a>
-                      <a
-                        data-ms-content="members"
-                        href="#/ms/membership/redirect"
-                        className="small-btn w-button"
-                      >
-                        Submit a request
-                      </a>
                     </div>
                   </li>
                 </ul>

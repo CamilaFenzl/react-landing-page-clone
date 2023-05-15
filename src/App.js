@@ -6,7 +6,7 @@ import Header from './sections/header';
 import Pricing from './sections/pricing';
 import Last from './sections/last';
 import WorkExamples from './sections/work-examples';
-import Splash from './sections/last';
+import Splash from './sections/splash';
 export default function App() {
   return (
     <>

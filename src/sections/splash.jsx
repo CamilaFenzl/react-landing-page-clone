@@ -108,7 +108,6 @@ export default function Splash() {
                 style={{
                   transform:
                     'translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)',
-                  opacity: 0,
                 }}
                 className="intro-copy"
               >
@@ -139,7 +138,6 @@ export default function Splash() {
               style={{
                 transform:
                   'translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)',
-                opacity: 0,
               }}
               className="container w-container"
             >
@@ -153,7 +151,6 @@ export default function Splash() {
                 <div
                   id="w-node-_33fce59e-9c95-20e8-186e-a2687ad93aed-18b1d20c"
                   data-w-id="33fce59e-9c95-20e8-186e-a2687ad93aed"
-                  style={{ opacity: 0 }}
                 >
                   <div className="text-block choose-your-plan">
                     Create an account
@@ -176,7 +173,6 @@ export default function Splash() {
                 <div
                   id="w-node-f16c65df-17b6-ee72-6186-cb510d4bac84-18b1d20c"
                   data-w-id="f16c65df-17b6-ee72-6186-cb510d4bac84"
-                  style={{ opacity: 0 }}
                 >
                   <div className="text-block">
                     Submit design
@@ -200,7 +196,6 @@ export default function Splash() {
                 <div
                   id="w-node-_7998d3b4-4809-1b59-caf4-f9d597279b65-18b1d20c"
                   data-w-id="7998d3b4-4809-1b59-caf4-f9d597279b65"
-                  style={{ opacity: 0 }}
                 >
                   <div className="text-block">
                     Design until
@@ -224,7 +219,6 @@ export default function Splash() {
                 <div
                   id="w-node-_39ba4fa5-0cb8-fe64-b787-fe795a3b8cf9-18b1d20c"
                   data-w-id="39ba4fa5-0cb8-fe64-b787-fe795a3b8cf9"
-                  style={{ opacity: 0 }}
                 >
                   <div className="text-block">
                     Cancel or pause <br />

@@ -17,7 +17,6 @@ export default function Pricing() {
             style={{
               transform:
                 'translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)',
-              opacity: 0,
             }}
             className="pricing-intro-copy"
           >

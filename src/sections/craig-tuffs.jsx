@@ -14,7 +14,6 @@ export default function CraigTuffs() {
             src="https://uploads-ssl.webflow.com/62b1c9375bce4d3ca2b1d20b/62b56adefd674f958629ba5a_Screenshot%202022-06-01%20at%2009.33.25.png"
             width="429"
             alt="Craig Tuffs Profile Image"
-            style={{ opacity: 0 }}
             sizes="(max-width: 479px) 55vw, (max-width: 767px) 60vw, 429px"
             data-w-id="bf172587-3131-d899-8a65-a544d3e1a428"
             id="w-node-bf172587-3131-d899-8a65-a544d3e1a428-18b1d20c"
